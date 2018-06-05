@@ -7,7 +7,7 @@
 <title>Hello JSP!</title>
 </head>
 <body>
-ようこそ！JSP＆サーブレットの世界へ！
+Sanukiさんようこそ、JSP＆サーブレットの世界へ！
 
 </body>
 </html>
