@@ -9,7 +9,5 @@
 <body>
 ようこそ！JSP＆サーブレットの世界へ！
 
-<p><a href="hello">HelloServlet実行</a></p>
-
 </body>
 </html>
