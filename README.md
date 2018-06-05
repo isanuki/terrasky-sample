@@ -1,3 +1,3 @@
-CodeZine Heroku Sample
+TerraSky Heroku Sample
 ==============
-CodeZine Heroku連載で使用するサンプル
+Heroku研修で使用するJavaサンプル
